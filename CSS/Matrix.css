@@ -1,0 +1,76 @@
+*{
+    /* O tamanho da borda fazparte do elemnto */
+    box-sizing: border-box;
+
+    /* troca a fonte do site */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    color: white;
+    
+    
+}
+
+html{
+    background: url(../img/Gif\ Matrix\ 1.gif) no-repeat center center fixed;
+    background-size: cover;  
+    
+}
+
+body {
+
+    border-radius: 10px;
+    padding: 50px;
+    margin: 20px auto;
+    background: #070707be;
+    width: 1000px;
+    margin: 20px auto;
+    border: 1px solid rgb(36, 155, 0);
+
+}
+
+img {
+
+    width: 350px;
+    margin-top: 20px;
+    
+}
+
+p{
+    background: #07070700;
+    
+}
+
+table{
+    border-collapse: collapse;
+    border-radius: 10px;
+
+}
+
+th{
+    background: rgb(4, 109, 4);
+}
+
+th,td{
+    border: 1px solid #078c03;
+    text-align: center;
+}
+
+iframe{
+
+    width: 100%;
+    height: 650px;
+
+}
+
+a{
+    color: #078c03;
+    text-decoration: none;
+
+}
+
+a:hover{
+
+    color: #46d141;
+    border-bottom: #078c03;
+}
+
